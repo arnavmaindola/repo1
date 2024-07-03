@@ -9,7 +9,7 @@ int main()
    h = seconds/3600;
    m = (seconds/60) - h*60;
    s = seconds%(seconds/60);
-
+//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
    if (h<10)
             printf("0");
